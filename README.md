@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Aghlimi
-
+<img src ="https://badge.mediaplus.ma/darkblue/aghlimi">
 - 👀 I’m interested in software development, open-source projects, and cybersecurity.
 - 🌱 I’m currently learning advanced C++, Linux systems, and web technologies.
 - 💞️ I’m looking to collaborate on exciting open-source projects and cool tech startups.
